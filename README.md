@@ -1,3 +1,7 @@
+# AI
+
+<a href="#/AI/Spring_AI_初识" title="Spring AI 初识">Spring AI 初识</a>
+
 # 中间件
 
 <a href="#/中间件/tomcat" title="tomcat">tomcat</a>

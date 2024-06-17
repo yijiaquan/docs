@@ -1,5 +1,8 @@
 * [首页](/)
 
+* [AI](AI/guide)
+  * [Spring AI初识](AI/Spring_AI_初识)
+
 * [中间件](中间件/guide)
   * [tomcat](中间件/tomcat)
 
