@@ -34,7 +34,7 @@
 
   - [spring-ai-bom-0.8.0-20240223.075704-49.pom](https://repo.spring.io/ui/api/v1/download?repoKey=libs-snapshot-local&path=org%2Fspringframework%2Fai%2Fspring-ai-bom%2F0.8.0-SNAPSHOT%2Fspring-ai-bom-0.8.0-20240223.075704-49.pom)
 
-  - [spring-ai-openai-spring-boot-starter-1.0.0-20240607.190706-202.jar
+  - [spring-ai-openai-spring-boot-starter-1.0.0-20240607.190706-202.jar](https://repo.spring.io/ui/api/v1/download?repoKey=libs-snapshot-local&path=org%2Fspringframework%2Fai%2Fspring-ai-openai-spring-boot-starter%2F1.0.0-SNAPSHOT%2Fspring-ai-openai-spring-boot-starter-1.0.0-20240607.190706-202.jar)
 
 - pom.xml
 
